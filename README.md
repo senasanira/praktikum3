@@ -19,3 +19,6 @@ keliling = hitung_keliling_lingkaran(jari_jari)
 print(f"Luas lingkaran dengan jari-jari {jari_jari} adalah {luas:.2f}")
 print(f"Keliling lingkaran dengan jari-jari {jari_jari} adalah {keliling:.2f}")
 </p>
+
+
+![gambar](ss.png)
